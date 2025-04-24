@@ -27,17 +27,21 @@ Make sure you have the following installed:
 - MySQL
 - IDE (IntelliJ IDEA, Eclipse, etc.)
    
-## 🚀 Project Structute
+## 📁 Project Structure
 
-src/
- └── main/
-     ├── java/
-     │    └── com.example.mvc/
-     │         ├── controller/
-     │         ├── model/
-     │         ├── repository/
-     │         └── service/
-     └── resources/
-          ├── templates/
-          ├── static/
-          └── application.properties
+```text
+spring-boot-mvc-basics/
+└── src/
+    └── main/
+        ├── java/
+        │   └── com/
+        │       └── example/
+        │           └── mvc/
+        │               ├── controller/
+        │               ├── model/
+        │               ├── repository/
+        │               └── service/
+        └── resources/
+            ├── static/
+            ├── templates/
+            └── application.properties
