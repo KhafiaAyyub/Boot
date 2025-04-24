@@ -9,7 +9,7 @@ This project includes foundational concepts and configurations such as:
 
 - Spring Boot project structure
 - MVC architecture (Model, View, Controller)
-- Basic Spring Boot annotations (`@Controller`, `@Service`, `@Repository`, etc.)
+- Basic Spring Boot annotations 
 - JSP/Thymeleaf integration
 - Application properties configuration
 - Simple form handling
